@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Osonobu Victor
+# 👋 Hi, I’m Osonobu Victor
+## I am a Data Analyst
 - 👀 I’m currently working on some projects to challenge myself and grow my Data Analytics skills
 - 🌱 I perform in depth data analysis using statistical tools and techniques to identify trends, patterns, and correlation in complext data set
 - 💞️ I’m looking to collaborate with groups, individuals, companies and organizations to solve their business problems by leveraging data
