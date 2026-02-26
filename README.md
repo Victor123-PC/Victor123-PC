@@ -1,9 +1,7 @@
 # 👋 Hi, I’m Osonobu Victor
 ## I am a Data Analyst
-- 👀 I’m currently working on some projects to challenge myself and grow my Data Analytics skills
-- 🌱 I perform in depth data analysis using statistical tools and techniques to identify trends, patterns, and correlation in complext data set
-- 💞️ I’m looking to collaborate with groups, individuals, companies and organizations to solve their business problems by leveraging data
--   I'm open for entry level Data Analytics Roles as i am currently in search for Data Analyst Role.
+- 🌱 Highly skilled data analyst with a strong foundation in statistical analysis and data visualization. I deliver actionable insights by transforming complex data into compelling stories, leveraging tools to communicate findings effectively and drive business growth.
+-   I'm open for Data Analytics Roles.
 - 📫 How to reach me  [linkedin](https://www.linkedin.com/in/osonobu-victor-237504187/)
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love learning new things
@@ -13,7 +11,7 @@
 -  SQL(Structured Query Language)
 -  Tableau
 -  PowerBI
--  SPSS
+-  Python
 
 <!---
 Victor123-PC/Victor123-PC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
